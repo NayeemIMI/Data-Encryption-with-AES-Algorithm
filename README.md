@@ -20,4 +20,9 @@ Here I have implemented the AES algorithm on Python - 3.
 # Guidelines to Run this Project
 -Go to colab.research.google.com
 
--Create a new 
+-Create a new notebook.
+
+-Copy everything from my source file and paste in Google colab and run
+
+
+-Or you can just open my souce file and click "Open in colab" and you can run it from there directly!
